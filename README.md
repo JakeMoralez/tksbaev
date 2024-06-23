@@ -1,7 +1,7 @@
-## Hi there 👋
-
+### Hi there 👋
+[![Discord Presence](https://lanyard.cnrad.dev/api/442769686057189396)](https://discord.com/users/442769686057189396)
 <!--
-**tksbaev/tksbaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**spectreq666/spectreq666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
